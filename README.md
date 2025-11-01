@@ -1,48 +1,47 @@
-# Hey, I'm Jonathan 👋
+# Hey, I'm Abdelgafar 👋  
 
-[![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
+[![Linkedin Badge](https://img.shields.io/badge/-Abdelgafar%20Reda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelgafar-reda-16936233a)](https://www.linkedin.com/in/abdelgafar-reda-16936233a)  
 
-Nice to meet you! I'm currently working at GitHub as a software engineer.
-I recently graduated from the [Shopify Dev Degree](https://devdegree.ca/) program in Spring 2022.
-I've previously worked on building the [Shopify Fulfillment Network](https://www.shopify.com/fulfillment) as a fullstack developer, Shopify's Experimentation Platform as a data developer, Shopify Checkout as a backend developer, and Shopify's Caching Platform as a production engineer.
+💻 I’m a .NET Developer passionate about building scalable web applications using **C#**, **ASP.NET Core**, and **SQL Server**.  
+I enjoy turning complex problems into elegant solutions and writing clean, maintainable code.  
 
-## :game_die: Join my community Connect Four game!
-![](https://img.shields.io/badge/Moves%20played-19439-blue)
-![](https://img.shields.io/badge/Completed%20games-958-brightgreen)
-![](https://img.shields.io/badge/Total%20players-2021-orange)
+---
 
-Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
+## 🧠 About Me  
+- 🌍 Based in Egypt  
+- 🏗️ Focused on backend development and API design  
+- 🧩 Interested in **Entity Framework Core**, **Blazor**, and **Microservices**  
+- 📚 Always learning new technologies to improve performance and scalability  
+- ⚙️ Experienced with version control and CI/CD pipelines  
 
-Game over, the blue team has won! [Click here to start a new game!](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cnew&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+---
 
-|1|2|3|4|5|6|7|
-| - | - | - | - | - | - | - |
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|
+## 🧰 Tech Stack  
+**Languages:** C#, SQL, HTML, CSS, JavaScript  
+**Frameworks & Tools:** .NET 8, ASP.NET Core, Entity Framework Core, LINQ, Blazor  
+**Databases:** SQL Server, SQLite  
+**Other Tools:** Git, GitHub, Docker, Postman, Visual Studio  
 
-Interested in how everything works? [Click here](https://github.com/JonathanGin52/JonathanGin52/tree/main/connect4) to read up on what's happening behind the scenes.
+---
 
-**:alarm_clock: Most recent moves**
-| Team | Move | Made by |
-| ---- | ---- | ------- |
-| Blue | 4 | [@Cygra](https://github.com/Cygra) |
-| Red | 4 | [@yatinannam](https://github.com/yatinannam) |
-| Blue | 6 | [@caioanjs](https://github.com/caioanjs) |
+## 🚀 Projects  
+Here are a few of my favorite projects (coming soon 🚧):  
+- 🔹 **Inventory Management System** — .NET + EF Core + SQL Server  
+- 🔹 **Personal Portfolio Website** — ASP.NET Core MVC + Bootstrap  
+- 🔹 **API for E-Commerce Platform** — RESTful API built with ASP.NET Core  
 
-**:trophy: Leaderboard: Top 10 players with the most game winning moves :1st_place_medal:**
-| Player | Wins |
-| ------ | -----|
-| [@totti-rdz](https://github.com/totti-rdz) | 195 |
-| [@BPower0036](https://github.com/BPower0036) | 142 |
-| [@antjacquemin](https://github.com/antjacquemin) | 113 |
-| Connect4Bot :robot: | 100 |
-| [@Nomes77](https://github.com/Nomes77) | 54 |
-| [@JohnyP36](https://github.com/JohnyP36) | 48 |
-| [@charmaine-kwok](https://github.com/charmaine-kwok) | 29 |
-| [@marcosbarker](https://github.com/marcosbarker) | 25 |
-| [@darshanr27](https://github.com/darshanr27) | 22 |
-| [@Cygra](https://github.com/Cygra) | 13 |
+---
+
+## 📈 GitHub Stats  
+![Abdelgafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelgafarReda&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelgafarReda&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me  
+💼 [LinkedIn](https://www.linkedin.com/in/abdelgafar-reda-16936233a)  
+📧 **abdelgafar@example.com** (replace with your real email if you want it public)
+
+---
+
+⭐️ _"Code with passion, build with purpose."_  
